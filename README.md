@@ -3,7 +3,7 @@
 
 # RESTEasy helloworld example with Gradle
 
-Repo accompanying the blog post [https://claudioaltamura.de/rest/helloworld-with-resteasy].
+Repo accompanying the blog post https://claudioaltamura.de/rest/helloworld-with-resteasy.
 
 ## Run application
     ./gradlew appRun
